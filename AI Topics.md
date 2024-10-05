@@ -8,3 +8,6 @@
 - Heuristic technique
 - Graceful decay of admissibility
 - Path representation
+- Constraint Satisfatory Problem
+- Means end analysis
+    - operator subgoaling(backward chaining establishes precondition of operator)
